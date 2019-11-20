@@ -13,6 +13,16 @@ body {
   background: url("./pattern.png");
 }
 
+h2 {
+  color: white;
+}
+
+.update-city {
+  position: relative;
+  top: 280px;
+  left: 100px;
+}
+
 .main {
   background: #ccc;
   width: 400px;
